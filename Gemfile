@@ -11,11 +11,11 @@ gem 'sqlite3'
 # Gems used only for assets and not required
 # in production environments by default.
 group :development do
-  gem 'rspec-rails',   '~> 2.0.0.beta.18'
+  gem 'rspec-rails',   '~> 2.10.0'
 end
 
 group :test do
-  gem 'rspec-rails',   '~> 2.0.0.beta.18'
+  gem 'rspec-rails',   '~> 2.10.0'
 end
 
 
